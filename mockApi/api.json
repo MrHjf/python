@@ -1,0 +1,14 @@
+ [
+ 	{
+ 		"url": "http://localhost:4423/api/frontEnd/yyfaxapm/user.action?fn=login",
+ 		"data": {"username": "root", "password": "e10adc3949ba59abbe56e057f20f883e"}
+ 	},
+ 	/*{
+ 		"url": "http://172.29.2.124:4430/api/frontEnd/yyfaxapm/user.action?fn=login",
+ 		"data": {"username": "root", "password": "123456"}
+ 	}*/
+ 	/*{
+ 		"url": "http://localhost:3003/graphql?query={getTest{id}}",
+ 		"data": {}
+ 	}*/
+ ]
